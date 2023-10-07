@@ -16,7 +16,7 @@ import com.employee.model.Employee;
 import com.employee.service.EmployeeService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
+//@CrossOrigin(origins = "http://localhost:5173")
 @RequestMapping("/empdata")
 public class EmployeeController {
 	
